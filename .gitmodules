@@ -1,0 +1,3 @@
+[submodule "awx-sample-repo-w-submodules-playbooks"]
+	path = awx-sample-repo-w-submodules-playbooks
+	url = git@github.com:mwiora/awx-sample-repo-w-submodules-playbooks.git
